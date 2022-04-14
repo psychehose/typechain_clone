@@ -1,0 +1,7 @@
+.env
+dist
+
+build/Release
+node_modules/
+.npm
+*.DS_Store
